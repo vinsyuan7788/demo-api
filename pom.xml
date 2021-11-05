@@ -14,6 +14,8 @@
         <module>demo-api-biz</module>
         <module>demo-api-common</module>
     </modules>
+    <name>demo-api</name>
+    <description>Demo API Application for Spring Boot and Cloud</description>
 
     <properties>
         <!-- Versions for Basic Dependencies -->
