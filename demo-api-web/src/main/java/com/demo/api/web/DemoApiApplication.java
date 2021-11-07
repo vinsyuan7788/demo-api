@@ -15,6 +15,6 @@ public class DemoApiApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(DemoApiApplication.class, args);
-        log.info(LogUtils.getLogMessage("API application is started"));
+        log.info(LogUtils.getLogMessage("API application has been started successfully"));
     }
 }
